@@ -1,0 +1,22 @@
+{
+  "name": "felix_static_files",
+  "version": "1.0.0",
+  "description": "felixchen_static_files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixchen0707/felix_static_files.git"
+  },
+  "keywords": [
+    "静态文件"
+  ],
+  "author": "felixchen0707",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixchen0707/felix_static_files/issues"
+  },
+  "homepage": "https://github.com/felixchen0707/felix_static_files#readme"
+}
