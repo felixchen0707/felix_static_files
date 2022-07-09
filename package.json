@@ -1,6 +1,6 @@
 {
   "name": "felix_static_files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "felixchen_static_files",
   "main": "index.js",
   "scripts": {
