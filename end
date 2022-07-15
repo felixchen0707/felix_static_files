@@ -1,0 +1,89 @@
+[33mcommit ccbf8ab0aadefc96f4abfb3efcd899998d864285[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.0.6[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Mon Jul 11 21:38:03 2022 +0800
+
+    1.0.6
+
+[33mcommit 9c9c8d03f9ce4c3bccea874af4f07e0c2e881c33[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Mon Jul 11 21:37:43 2022 +0800
+
+    新增音乐
+
+[33mcommit ff0c8d6e5b93af9ef0afa519bc0bd7aed1feadbf[m[33m ([m[1;33mtag: v1.0.5[m[33m)[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jul 9 13:04:47 2022 +0800
+
+    1.0.5
+
+[33mcommit 2bb904f35e29c8f86a9e62130fc61bb286d0e2fc[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jul 9 13:04:36 2022 +0800
+
+    更新detail界面的css
+
+[33mcommit ee4977a0aeef1e776a6e5046a22a6e3e2ebeb47b[m[33m ([m[1;33mtag: v1.0.4[m[33m)[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jul 9 12:59:42 2022 +0800
+
+    1.0.4
+
+[33mcommit de80362fb9770e8ed5300a999fb6d67bca906f68[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jul 9 12:59:34 2022 +0800
+
+    修正js
+
+[33mcommit 8a12f5beaa7e8266968f8c0a1b7cef17299bbc29[m[33m ([m[1;33mtag: v1.0.3[m[33m)[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jul 9 12:47:48 2022 +0800
+
+    1.0.3
+
+[33mcommit 49c70e193a05b059c370e1c0847b874a1088d641[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jul 9 12:47:40 2022 +0800
+
+    修正背景图片
+
+[33mcommit 83cfb2b458f38b932c74818e74d720acd4dc5bb7[m[33m ([m[1;33mtag: v1.0.2[m[33m)[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jul 9 12:39:11 2022 +0800
+
+    1.0.2
+
+[33mcommit daa97965b89f150411cb981a5645765ee4af5602[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jul 9 12:38:32 2022 +0800
+
+    添加主页的css和js
+
+[33mcommit 4c0c847d021ac1b3a450e8dc8c8b65e069ff7b69[m
+Author: felixchen <3137181992@qq.com>
+Date:   Sat Jun 11 12:04:55 2022 +0800
+
+    Update README.md
+
+[33mcommit f25766ee3045835d72ec1975811edfe6fa7ae3e9[m
+Author: felixchen <3137181992@qq.com>
+Date:   Sat Jun 11 12:01:42 2022 +0800
+
+    Update README.md
+
+[33mcommit b84ff529a6b7d93ee5adb1e2fa2f69ab42b35f2c[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jun 11 11:50:51 2022 +0800
+
+    1.0.1
+
+[33mcommit 010e3d732889032945749f0053075646e2fbbe6c[m
+Author: https://gitee.com/felixchen0707 <3137181992@qq.com>
+Date:   Sat Jun 11 11:50:37 2022 +0800
+
+    first publish
+
+[33mcommit acb205632a9d352a95e3b59d859732d628bfd7e2[m
+Author: felixchen <3137181992@qq.com>
+Date:   Sat Jun 11 11:33:06 2022 +0800
+
+    Initial commit
