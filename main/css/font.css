@@ -1,10 +1,10 @@
 @font-face{
     font-family: 'HarmonyOS Sans SC';
     font-display: swap;
-    src: url('https://adn.arcitcgn.cn/bf-static@1.0.11/media/fonts/HarmonyOSRegular/HarmonyOSRegular.ttf') format("truetype");
+    src: url('https://adn.arcitcgn.cn/npm/bf-static@1.0.11/media/fonts/HarmonyOSRegular/HarmonyOSRegular.ttf') format("truetype");
 }
 @font-face{
     font-family: 'JetBrains Mono';
     font-display: swap;
-    src: url('https://adn.arcitcgn.cn/bf-static@1.1.6/media/fonts/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf') format("truetype");
+    src: url('https://adn.arcitcgn.cn/npm/bf-static@1.1.6/media/fonts/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf') format("truetype");
 }
